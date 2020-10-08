@@ -1,4 +1,32 @@
-    K2ZSHTuEHskv1VrTeGT5
-    KS1-6437253acfd3a8415a6e0ed108feac11:akirapaiva@gmail.com
-    4HHmKLnRRt6i
-    br.vpnunlimitedapp.com
+EUA
+177.67.82.210
+177.67.82.218
+177.67.82.219
+177.67.82.221
+177.67.82.222
+177.67.82.223
+177.67.82.228
+
+BR
+177.67.82.210
+177.67.82.218
+177.67.82.219
+177.67.82.221
+177.67.82.222
+177.67.82.223
+177.67.82.228
+
+PSK
+K2ZSHTuEHskv1VrTeGT5
+
+Login
+KS1-efbf84633d7275452e80feb5934ba3c4:akirapaiva@gmail.com
+
+PW
+Z3F86giRHzgP
+
+ALTERNATIVE LOGIN
+akirapaiva@gmail.com
+
+ALTERNATIVE PW
+SdCDuMTlv1Xn

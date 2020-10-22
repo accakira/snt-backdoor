@@ -30,3 +30,5 @@ akirapaiva@gmail.com
 
 ALTERNATIVE PW
 SdCDuMTlv1Xn
+
+https://raw.githubusercontent.com/accakira/snt-backdoor/3eb5552178149053e2e0ea7a8ffc3ab9ed869b36/65b1441f89ae32d9cecc544fac3aaa4b.pdf
